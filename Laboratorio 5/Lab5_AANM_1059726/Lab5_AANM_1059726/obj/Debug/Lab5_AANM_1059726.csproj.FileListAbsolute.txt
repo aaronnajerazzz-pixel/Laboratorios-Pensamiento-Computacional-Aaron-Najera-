@@ -1,0 +1,7 @@
+C:\Users\pjose\Desktop\parcial2\Laboratorios-Pensamiento-Computacional-Aaron-Najera-\Laboratorio 5\Lab5_AANM_1059726\Lab5_AANM_1059726\bin\Debug\Lab5_AANM_1059726.exe.config
+C:\Users\pjose\Desktop\parcial2\Laboratorios-Pensamiento-Computacional-Aaron-Najera-\Laboratorio 5\Lab5_AANM_1059726\Lab5_AANM_1059726\bin\Debug\Lab5_AANM_1059726.exe
+C:\Users\pjose\Desktop\parcial2\Laboratorios-Pensamiento-Computacional-Aaron-Najera-\Laboratorio 5\Lab5_AANM_1059726\Lab5_AANM_1059726\bin\Debug\Lab5_AANM_1059726.pdb
+C:\Users\pjose\Desktop\parcial2\Laboratorios-Pensamiento-Computacional-Aaron-Najera-\Laboratorio 5\Lab5_AANM_1059726\Lab5_AANM_1059726\obj\Debug\Lab5_AANM_1059726.csproj.AssemblyReference.cache
+C:\Users\pjose\Desktop\parcial2\Laboratorios-Pensamiento-Computacional-Aaron-Najera-\Laboratorio 5\Lab5_AANM_1059726\Lab5_AANM_1059726\obj\Debug\Lab5_AANM_1059726.csproj.CoreCompileInputs.cache
+C:\Users\pjose\Desktop\parcial2\Laboratorios-Pensamiento-Computacional-Aaron-Najera-\Laboratorio 5\Lab5_AANM_1059726\Lab5_AANM_1059726\obj\Debug\Lab5_AANM_1059726.exe
+C:\Users\pjose\Desktop\parcial2\Laboratorios-Pensamiento-Computacional-Aaron-Najera-\Laboratorio 5\Lab5_AANM_1059726\Lab5_AANM_1059726\obj\Debug\Lab5_AANM_1059726.pdb
